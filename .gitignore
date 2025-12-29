@@ -1,0 +1,29 @@
+# Archivos de datos sensibles y de desarrollo
+DATOS para nuevor proyectostxt/
+*.txt
+
+# Archivos temporales de Excel
+~$*.xlsb
+~$*.xlsx
+~$*.xlsm
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Archivos de backup
+*.bak
+*.backup
+*~
+
+# Logs
+*.log
+
+# Archivos temporales
+*.tmp
+*.temp
+
+# Nota: Si quieres incluir el generador HTML pero mantener privados los datos,
+# descomenta la línea de *.txt y agrega excepciones específicas si es necesario
+
