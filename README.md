@@ -223,14 +223,14 @@ Este proyecto es de uso interno y está destinado exclusivamente para operacione
 
 <div align="center">
 
-[![Privacy](https://img.shields.io/badge/Privacy-Policy-blue)](PRIVACY_POLICY.md)
-[![Security](https://img.shields.io/badge/Security-Protected-green)](PRIVACY_POLICY.md)
+[![Privacy](https://img.shields.io/badge/Privacy-Policy-blue)](PRIVACY_POLICY.html)
+[![Security](https://img.shields.io/badge/Security-Protected-green)](PRIVACY_POLICY.html)
 
 </div>
 
 ### 📋 Resumen
 
-Para información detallada sobre cómo manejamos la privacidad y seguridad de los datos, consulta nuestra **[Política de Privacidad completa](PRIVACY_POLICY.md)**.
+Para información detallada sobre cómo manejamos la privacidad y seguridad de los datos, consulta nuestra **[Política de Privacidad completa](PRIVACY_POLICY.html)**.
 
 **Puntos clave:**
 - 🔐 **No almacenamos contraseñas** ni información sensible permanentemente
@@ -238,8 +238,13 @@ Para información detallada sobre cómo manejamos la privacidad y seguridad de l
 - 🏢 **Respetamos las políticas** de privacidad de Walmart
 - 🔒 **Sistema de filtro de usuario** protege el acceso a funcionalidades
 - ✅ **Sin cookies ni tracking** - Procesamiento 100% local
+- 🔒 **Código protegido** - La edición está restringida a usuarios autorizados
 
-**➡️ [Lee la Política de Privacidad completa →](PRIVACY_POLICY.md)**
+<div align="center">
+
+**➡️ [📄 Ver Política de Privacidad Completa](PRIVACY_POLICY.html) ⬅️**
+
+</div>
 
 ---
 
@@ -279,6 +284,16 @@ Para soporte o consultas sobre el uso de esta herramienta:
 ---
 
 *Desarrollado con ❤️ para optimizar la gestión de inventario*
+
+---
+
+### 🔗 Enlaces Rápidos
+
+[🔒 Política de Privacidad](PRIVACY_POLICY.html) | [📝 GitHub Issues](https://github.com/operonte/categoriaaldia/issues) | [💻 Repositorio](https://github.com/operonte/categoriaaldia)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Repositorio-black?logo=github)](https://github.com/operonte/categoriaaldia) 
+[![Pages](https://img.shields.io/badge/GitHub-Pages-blue?logo=github)](https://operonte.github.io/categoriaaldia/)
+[![Privacy](https://img.shields.io/badge/Privacy-Policy-blue)](PRIVACY_POLICY.html)
 
 </div>
 

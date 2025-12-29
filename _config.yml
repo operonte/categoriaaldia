@@ -1,0 +1,42 @@
+# GitHub Pages Configuration - Categoria al Día
+title: Categoria al Día
+description: Sistema de Gestión de Inventario Walmart Smart
+author: Cristian Bravo
+github_username: operonte
+
+# Theme settings (opcional, usa el tema por defecto de GitHub)
+theme: jekyll-theme-minimal
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+
+# Navigation
+navigation:
+  - title: Inicio
+    url: /
+  - title: Política de Privacidad
+    url: /PRIVACY_POLICY.html
+
+# Markdown settings
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+
+# Exclude files
+exclude:
+  - DATOS para nuevor proyectostxt/
+  - .gitignore
+  - LICENSE
+
+# Include README.md and PRIVACY_POLICY.md for rendering
+include:
+  - README.md
+  - PRIVACY_POLICY.md
+
+# Site settings
+url: https://operonte.github.io
+baseurl: /categoriaaldia
+

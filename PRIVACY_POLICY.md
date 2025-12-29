@@ -188,9 +188,10 @@ Si tienes preguntas sobre esta Política de Privacidad o sobre el manejo de info
 
 - 📧 **Email:** [Tu correo aquí - por favor actualiza]
 - 👤 **Autor:** Cristian Bravo
-- 📋 Revisa la documentación del proyecto en el README
+- 📋 **Documentación:** [Ver README completo](../README.html)
 - 🔗 **Repositorio:** [https://github.com/operonte/categoriaaldia](https://github.com/operonte/categoriaaldia)
 - 📝 **GitHub Issues:** [Crear un issue](https://github.com/operonte/categoriaaldia/issues)
+- 🌐 **GitHub Pages:** [Ver sitio web](https://operonte.github.io/categoriaaldia/)
 
 ### Reporte de Problemas
 Si detectas algún problema relacionado con la privacidad o seguridad:
@@ -218,16 +219,29 @@ Al utilizar **Categoria al Día**, aceptas las prácticas descritas en esta Pol�
 
 <div align="center">
 
+---
+
 **Esta política forma parte de los términos de uso del sistema Categoria al Día**
 
 *Última revisión: Enero 2025*
 
----
-
 **Desarrollado por:** Cristian Bravo  
 **Contacto:** [Tu correo aquí - por favor actualiza]
 
-[⬅️ Volver al README](README.md) | [🔒 Política de Privacidad](PRIVACY_POLICY.md)
+---
+
+<div align="center">
+
+### 🔗 Navegación
+
+[⬅️ Volver al Inicio](../) | [📖 Ver README](../README.html) | [🔒 Política de Privacidad](PRIVACY_POLICY.html)
+
+---
+
+[![GitHub](https://img.shields.io/badge/GitHub-Repositorio-black?logo=github)](https://github.com/operonte/categoriaaldia) 
+[![Pages](https://img.shields.io/badge/GitHub-Pages-blue?logo=github)](https://operonte.github.io/categoriaaldia/)
+
+</div>
 
 </div>
 
