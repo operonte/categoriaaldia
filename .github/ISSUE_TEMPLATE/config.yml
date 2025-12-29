@@ -1,0 +1,9 @@
+blank_issues_enabled: true
+contact_links:
+  - name: 📧 Contacto Directo
+    url: mailto:cristian.bravo.droguett@gmail.com
+    about: Contacta directamente por email para consultas urgentes o privadas
+  - name: 🔒 Política de Privacidad
+    url: https://operonte.github.io/categoriaaldia/PRIVACY_POLICY.html
+    about: Revisa nuestra política de privacidad y seguridad
+
