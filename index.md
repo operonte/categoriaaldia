@@ -67,15 +67,17 @@ Este sistema respeta tu privacidad:
 
 ## 👤 Autor
 
-**Cristian Bravo**
+**Cristian Bravo Droguett**
 
 Desarrollado para optimizar la gestión de inventario "Categoría al Día" en Walmart.
+
+**📧 Contacto:** cristian.bravo.droguett@gmail.com
 
 ---
 
 ## 📞 Soporte
 
-- 📧 **Email:** [Tu correo aquí - por favor actualiza]
+- 📧 **Email:** cristian.bravo.droguett@gmail.com
 - 🔗 **GitHub Issues:** [Crear un issue](https://github.com/operonte/categoriaaldia/issues)
 - 🔗 **Repositorio:** [Ver en GitHub](https://github.com/operonte/categoriaaldia)
 

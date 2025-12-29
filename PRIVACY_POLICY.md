@@ -186,8 +186,8 @@ Este sistema cumple con:
 ### Para Consultas sobre Privacidad
 Si tienes preguntas sobre esta Política de Privacidad o sobre el manejo de información:
 
-- 📧 **Email:** [Tu correo aquí - por favor actualiza]
-- 👤 **Autor:** Cristian Bravo
+- 📧 **Email:** cristian.bravo.droguett@gmail.com
+- 👤 **Autor:** Cristian Bravo Droguett
 - 📋 **Documentación:** [Ver README completo](../README.html)
 - 🔗 **Repositorio:** [https://github.com/operonte/categoriaaldia](https://github.com/operonte/categoriaaldia)
 - 📝 **GitHub Issues:** [Crear un issue](https://github.com/operonte/categoriaaldia/issues)
@@ -225,8 +225,8 @@ Al utilizar **Categoria al Día**, aceptas las prácticas descritas en esta Pol�
 
 *Última revisión: Enero 2025*
 
-**Desarrollado por:** Cristian Bravo  
-**Contacto:** [Tu correo aquí - por favor actualiza]
+**Desarrollado por:** Cristian Bravo Droguett  
+**Contacto:** cristian.bravo.droguett@gmail.com
 
 ---
 
