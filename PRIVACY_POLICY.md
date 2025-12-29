@@ -43,6 +43,7 @@ La información recolectada se utiliza exclusivamente para:
 - ✅ **Filtro de usuario**: Activación/desactivación automática según permisos
 - ✅ **Seguridad recursiva**: Validación continua durante la ejecución
 - ✅ **Prevención de acceso no autorizado**: Protección de datos sensibles
+- ✅ **Protección del código fuente**: La edición y modificación del código está restringida exclusivamente a usuarios autorizados, garantizando la integridad y seguridad del sistema
 
 ---
 
@@ -60,7 +61,12 @@ La información recolectada se utiliza exclusivamente para:
    - No se transmite información a servidores externos
    - Integración directa con el sistema Walmart Smart
 
-3. **Datos Temporales**
+3. **Protección del Código Fuente**
+   - El código fuente está protegido contra modificaciones no autorizadas
+   - Solo usuarios autorizados pueden editar el código de la macro
+   - Se mantiene la integridad del sistema mediante control de acceso al código
+
+4. **Datos Temporales**
    - La información se procesa en memoria durante la ejecución
    - No se almacenan credenciales ni datos sensibles permanentemente
    - Los reportes generados pertenecen al usuario y al sistema Smart
@@ -171,6 +177,7 @@ Este sistema cumple con:
 - Este sistema está diseñado para uso interno
 - Se limita al ecosistema Walmart Smart
 - No recopila información para fines comerciales externos
+- El código fuente está protegido y solo usuarios autorizados pueden modificarlo
 
 ---
 
@@ -179,9 +186,11 @@ Este sistema cumple con:
 ### Para Consultas sobre Privacidad
 Si tienes preguntas sobre esta Política de Privacidad o sobre el manejo de información:
 
-- 📧 Contacta al equipo de gestión de inventario autorizado
+- 📧 **Email:** [Tu correo aquí - por favor actualiza]
+- 👤 **Autor:** Cristian Bravo
 - 📋 Revisa la documentación del proyecto en el README
-- 🔗 Visita el repositorio: [https://github.com/operonte/categoriaaldia](https://github.com/operonte/categoriaaldia)
+- 🔗 **Repositorio:** [https://github.com/operonte/categoriaaldia](https://github.com/operonte/categoriaaldia)
+- 📝 **GitHub Issues:** [Crear un issue](https://github.com/operonte/categoriaaldia/issues)
 
 ### Reporte de Problemas
 Si detectas algún problema relacionado con la privacidad o seguridad:
@@ -212,6 +221,13 @@ Al utilizar **Categoria al Día**, aceptas las prácticas descritas en esta Pol�
 **Esta política forma parte de los términos de uso del sistema Categoria al Día**
 
 *Última revisión: Enero 2025*
+
+---
+
+**Desarrollado por:** Cristian Bravo  
+**Contacto:** [Tu correo aquí - por favor actualiza]
+
+[⬅️ Volver al README](README.md) | [🔒 Política de Privacidad](PRIVACY_POLICY.md)
 
 </div>
 

@@ -4,6 +4,7 @@
 [![Platform](https://img.shields.io/badge/Platform-Walmart%20Smart-blue)](https://github.com)
 [![Excel](https://img.shields.io/badge/Excel-Macro-orange)](https://github.com)
 [![Status](https://img.shields.io/badge/Status-Active-success)](https://github.com)
+[![Privacy](https://img.shields.io/badge/Privacy-Policy-blue)](PRIVACY_POLICY.md)
 
 > **Solución integral de automatización para la gestión de inventario en la plataforma Walmart Smart**, diseñada para optimizar el proceso de "Categoría al Día" mediante macros avanzadas que interactúan directamente con la interfaz del sistema.
 
@@ -44,6 +45,7 @@ La macro está diseñada para trabajar exclusivamente dentro del ecosistema Walm
 - ✅ **Activación/desactivación automática**: Se habilita o deshabilita según el usuario (sin necesidad de contraseña)
 - ✅ **Sistema recursivo**: Validación continua del usuario durante la ejecución
 - ✅ **Control granular**: Permite gestionar qué usuarios tienen acceso a qué funcionalidades
+- ✅ **Código protegido**: La edición del código fuente está restringida solo a usuarios autorizados
 
 ---
 
@@ -86,6 +88,7 @@ Sistema inteligente de control de acceso que garantiza seguridad sin complejidad
 - **Recursividad**: Verifica continuamente la identidad del usuario durante toda la ejecución
 - **Control de acceso granular**: Permite configurar permisos específicos por usuario y funcionalidad
 - **Seguridad proactiva**: Previene el uso no autorizado sin interrumpir el flujo de trabajo
+- **Protección del código fuente**: La edición y modificación del código está restringida exclusivamente a usuarios autorizados, garantizando la integridad y seguridad del sistema
 
 ---
 
@@ -170,6 +173,7 @@ El sistema de filtro de usuario es completamente automático:
 - 🔒 **Versiones**: Compatibilidad depende de la versión activa de la plataforma Smart
 - 🔒 **Filtro de usuario**: Solo los usuarios autorizados en el sistema de filtro podrán utilizar las funcionalidades completas
 - 🔒 **Validación continua**: El sistema verifica el usuario durante toda la ejecución, por lo que cambios de sesión pueden afectar la funcionalidad
+- 🔒 **Código protegido**: La edición del código fuente está restringida. Solo usuarios autorizados pueden modificar el código de la macro
 
 ---
 
@@ -198,6 +202,13 @@ La carpeta `DATOS para nuevor proyectostxt/` contiene archivos de desarrollo, pr
 
 Este es un proyecto personal desarrollado para optimizar procesos internos. Las contribuciones están limitadas al contexto organizacional.
 
+### ⚠️ Importante sobre Modificaciones del Código
+
+- 🔐 **Acceso restringido**: La edición del código fuente está protegida y solo está disponible para usuarios autorizados
+- 🔐 **Integridad del sistema**: Para mantener la seguridad y funcionalidad, solo usuarios con permisos especiales pueden modificar el código
+- 🔐 **Control de versiones**: Cualquier modificación debe ser aprobada y revisada por el autor o equipo autorizado
+- 📧 **Solicitudes de mejora**: Si tienes sugerencias o mejoras, contacta al autor antes de realizar modificaciones
+
 ---
 
 ## 📄 Licencia
@@ -206,21 +217,41 @@ Este proyecto es de uso interno y está destinado exclusivamente para operacione
 
 ---
 
+---
+
 ## 🔒 Política de Privacidad
 
-Para información detallada sobre cómo manejamos la privacidad y seguridad de los datos, consulta nuestra [Política de Privacidad](PRIVACY_POLICY.md).
+<div align="center">
+
+[![Privacy](https://img.shields.io/badge/Privacy-Policy-blue)](PRIVACY_POLICY.md)
+[![Security](https://img.shields.io/badge/Security-Protected-green)](PRIVACY_POLICY.md)
+
+</div>
+
+### 📋 Resumen
+
+Para información detallada sobre cómo manejamos la privacidad y seguridad de los datos, consulta nuestra **[Política de Privacidad completa](PRIVACY_POLICY.md)**.
 
 **Puntos clave:**
-- No almacenamos contraseñas ni información sensible permanentemente
-- Todo el procesamiento es local en la máquina del usuario
-- Respetamos las políticas de privacidad de Walmart
-- El sistema de filtro de usuario protege el acceso a funcionalidades
+- 🔐 **No almacenamos contraseñas** ni información sensible permanentemente
+- 💻 **Todo el procesamiento es local** en la máquina del usuario
+- 🏢 **Respetamos las políticas** de privacidad de Walmart
+- 🔒 **Sistema de filtro de usuario** protege el acceso a funcionalidades
+- ✅ **Sin cookies ni tracking** - Procesamiento 100% local
+
+**➡️ [Lee la Política de Privacidad completa →](PRIVACY_POLICY.md)**
 
 ---
 
 ## 👤 Autor
 
+**Cristian Bravo**
+
 Desarrollado para optimizar la gestión de inventario "Categoría al Día" en Walmart.
+
+**📧 Contacto:** [Tu correo aquí - por favor actualiza]
+
+**🔗 GitHub:** [@operonte](https://github.com/operonte)
 
 ---
 
@@ -233,7 +264,11 @@ Desarrollado para optimizar la gestión de inventario "Categoría al Día" en Wa
 
 ## 📞 Soporte
 
-Para soporte o consultas sobre el uso de esta herramienta, contacta al equipo de gestión de inventario autorizado.
+Para soporte o consultas sobre el uso de esta herramienta:
+
+- 📧 **Email:** [Tu correo aquí - por favor actualiza]
+- 🔗 **GitHub Issues:** [Crear un issue](https://github.com/operonte/categoriaaldia/issues)
+- 👥 Contacta al equipo de gestión de inventario autorizado
 
 ---
 
