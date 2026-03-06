@@ -1,0 +1,5 @@
+*.xlsb linguist-language=Excel
+*.xlsx linguist-language=Excel
+*.xlsm linguist-language=Excel
+*.html linguist-vendored
+*.md linguist-vendored
